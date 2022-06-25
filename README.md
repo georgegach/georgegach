@@ -1,6 +1,8 @@
 ### Hello there 👋 
 I'm [@GeorgeGach](https://gach.ml) a **Machine Learning** and **Web Engineer** from Tbilisi, Georgia 🇬🇪🇪🇺
-
+```
+🚩 Looking for Middle-level full-time remote or on-site position as a Data Scientist, Machine Learning or MLOps Engineer
+```
 
 - 🌱 I’m currently learning more about MLOps and Responsible AI practices
 - 🍻 I’m open to collaborate on [FloWiz](https://github.com/georgegach/flowiz) and every [@Anbani](https://github.com/anbani) project like [Anbani.Py](https://github.com/anbani.py) or [TextArt](https://github.com/anbani/textart)
