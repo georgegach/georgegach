@@ -9,6 +9,10 @@ as a Data Scientist, Machine Learning or MLOps Engineer
 - 🍻 I’m open to collaborate on [FloWiz](https://github.com/georgegach/flowiz) and every [@Anbani](https://github.com/anbani) project like [Anbani.Py](https://github.com/anbani.py) or [TextArt](https://github.com/anbani/textart)
 - 🔬 I’m currently specializing in building effective NLP pipelines end-to-end from data gathering and model training to cloud deployment with CI/CD, proper governance, monitoring and friendly Web UI
 - 🤔 I’m looking for tips and tricks about cost-effective cloud deployment of large-scale NLP models 
+- 🤝 Some of the projects I contributed to are: 
+  - [Next.js](https://github.com/vercel/next.js/) - absolute jewel of the modern web
+  - [Obsidian](https://github.com/obsidianmd) - the go-to software for your 2nd brain
+  - [Thorium Reader](https://github.com/edrlab/thorium-reader) - unequivocally the best crossplatform ebook reader there is
 - 📫 You can reach me on [Facebook](https://fb.com/george.gachechiladze), [LinkedIn](https://www.linkedin.com/in/georgegach/) and on other socials listed on [gach.ml](https://gach.ml)
 - 💬 Ask me about 
   - 🎼 Epic Music and Composing 🏛️ Philosophy 🚀 Sci-Fi 🌔 Astrophotography 
