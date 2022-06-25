@@ -16,7 +16,7 @@ as a Data Scientist, Machine Learning or MLOps Engineer
 - 💙 Some of the underrated FOSS projects that I love are [implicit](https://github.com/benfred/implicit), [auto-translate-json](https://github.com/codegrue/auto-translate-json), [ebooklib](https://github.com/aerkalov/ebooklib), [Stereogram.js](https://github.com/peeinears/Stereogram.js), [adarkroom](https://github.com/doublespeakgames/adarkroom)
 - 📫 You can reach me on [Facebook](https://fb.com/george.gachechiladze), [LinkedIn](https://www.linkedin.com/in/georgegach/) and on other socials listed on [gach.ml](https://gach.ml)
 - 💬 Ask me about 
-  - 🎼 Epic Music and Composing 🏛️ Philosophy 🚀 Sci-Fi 🌔 Astrophotography 
+  - 🎼 Epic Music and Composing 🔠 Typography 🏛️ Philosophy 🚀 Sci-Fi 🌔 Astrophotography 
   - 🆓 FOSS 🐧 GNU/Linux 🕸️ APIs ☁️ SelfHosted 📊 All things Data (and 📥 DataHoarding, ugh...)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: `N/A`
