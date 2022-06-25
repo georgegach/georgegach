@@ -1,7 +1,8 @@
 ### Hello there 👋 
 I'm [@GeorgeGach](https://gach.ml) a **Machine Learning** and **Web Engineer** from Tbilisi, Georgia 🇬🇪🇪🇺
 ```
-🚩 Looking for Middle-level full-time remote or on-site position as a Data Scientist, Machine Learning or MLOps Engineer
+🚩 Looking for Middle-level full-time remote or on-site position \
+as a Data Scientist, Machine Learning or MLOps Engineer
 ```
 
 - 🌱 I’m currently learning more about MLOps and Responsible AI practices
