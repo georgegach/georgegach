@@ -13,6 +13,7 @@ as a Data Scientist, Machine Learning or MLOps Engineer
   - [Next.js](https://github.com/vercel/next.js/) - absolute jewel of the modern web
   - [Obsidian](https://github.com/obsidianmd) - the go-to software for your 2nd brain
   - [Thorium Reader](https://github.com/edrlab/thorium-reader) - unequivocally the best crossplatform ebook reader there is
+- 💙 Some of the underrated FOSS projects that I love are [implicit](https://github.com/benfred/implicit), [auto-translate-json](https://github.com/codegrue/auto-translate-json), [ebooklib](https://github.com/aerkalov/ebooklib), [Stereogram.js](https://github.com/peeinears/Stereogram.js), [adarkroom](https://github.com/doublespeakgames/adarkroom)
 - 📫 You can reach me on [Facebook](https://fb.com/george.gachechiladze), [LinkedIn](https://www.linkedin.com/in/georgegach/) and on other socials listed on [gach.ml](https://gach.ml)
 - 💬 Ask me about 
   - 🎼 Epic Music and Composing 🏛️ Philosophy 🚀 Sci-Fi 🌔 Astrophotography 
