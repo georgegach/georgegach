@@ -33,5 +33,5 @@ as a Data Scientist, Machine Learning or MLOps Engineer
 |        +o. =o...|
 +----[SHA256]-----+
 ```
-${Signed\ Giorgi\ Gachechiladze}$
+${Signed\,\ Giorgi\ Gachechiladze}$
 
