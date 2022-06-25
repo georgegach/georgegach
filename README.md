@@ -19,7 +19,7 @@ as a Data Scientist, Machine Learning or MLOps Engineer
   - 🎼 Epic Music and Composing 🏛️ Philosophy 🚀 Sci-Fi 🌔 Astrophotography 
   - 🆓 FOSS 🐧 GNU/Linux 🕸️ APIs ☁️ SelfHosted 📊 All things Data (and 📥 DataHoarding, ugh...)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: N/A
+- ⚡ Fun fact: `N/A`
 
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgegach)](https://gach.ml)
 
