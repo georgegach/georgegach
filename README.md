@@ -26,6 +26,8 @@ as a Data Scientist, Machine Learning or MLOps Engineer
 <img src="https://raw.githubusercontent.com/georgegach/georgegach/main/bye.gif?token=GHSAT0AAAAAABT33AUPJ4YRY24E63VPRQUQYVXGFTA" width="494" height="146"/>
 
 ```
+Signed, 
+
 +--[ED25519 256]--+
 |   o . o         |
 |  . + o = .      |
@@ -37,6 +39,7 @@ as a Data Scientist, Machine Learning or MLOps Engineer
 |E      + o.+.oo +|
 |        +o. =o...|
 +----[SHA256]-----+
+
+Giorgi Gachechiladze
 ```
-${Signed\,\ Giorgi\ Gachechiladze}$
 
