@@ -6,7 +6,7 @@ as a Data Scientist, Machine Learning or MLOps Engineer
 ```
 
 - 🌱 I’m currently learning more about MLOps and Responsible AI practices
-- 🍻 I’m open to collaborate on [FloWiz](https://github.com/georgegach/flowiz) and every [@Anbani](https://github.com/anbani) project like [Anbani.Py](https://github.com/anbani.py) or [TextArt](https://github.com/anbani/textart)
+- 🍻 I’m open to collaborate on [FloWiz](https://github.com/georgegach/flowiz) and every [@Anbani](https://github.com/anbani) project like [Anbani.Py](https://github.com/anbani/anbani.py) or [TextArt](https://github.com/anbani/textart)
 - 🔬 I’m currently specializing in building effective NLP pipelines end-to-end from data gathering and model training to cloud deployment with CI/CD, proper governance, monitoring and friendly Web UI
 - 🤔 I’m looking for tips and tricks about cost-effective cloud deployment of large-scale NLP models 
 - 🤝 Some of the projects I contributed to are: 
