@@ -5,6 +5,7 @@ I'm [@GeorgeGach](https://gach.ml) a **Machine Learning** and **Web Engineer** f
 as a Data Scientist, Machine Learning or MLOps Engineer
 ```
 
+
 - 🌱 I’m currently learning more about MLOps and Responsible AI practices
 - 🍻 I’m open to collaborate on [FloWiz](https://github.com/georgegach/flowiz) and every [@Anbani](https://github.com/anbani) project like [Anbani.Py](https://github.com/anbani/anbani.py) or [TextArt](https://github.com/anbani/textart)
 - 🔬 I’m currently specializing in building effective NLP pipelines end-to-end from data gathering and model training to cloud deployment with CI/CD, proper governance, monitoring and friendly Web UI
@@ -17,13 +18,12 @@ as a Data Scientist, Machine Learning or MLOps Engineer
 - 📫 You can reach me on [Facebook](https://fb.com/george.gachechiladze), [LinkedIn](https://www.linkedin.com/in/georgegach/) and on other socials listed on [gach.ml](https://gach.ml)
 - 💬 Ask me about 
   - 🎼 Epic Music and Composing 🔠 Typography 🏛️ Philosophy 🚀 Sci-Fi 🌔 Astrophotography 
-  - 🆓 FOSS 🐧 GNU/Linux 🕸️ APIs ☁️ SelfHosted 📊 All things Data (and 📥 DataHoarding, ugh...)
+  - 🆓 FOSS 🐧 GNU/Linux 🕸️ APIs ☁️ SelfHosted 📊 All things Data
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: `N/A`
 
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgegach)](https://gach.ml)
-
-<img src="https://raw.githubusercontent.com/georgegach/georgegach/main/bye.gif?token=GHSAT0AAAAAABT33AUPJ4YRY24E63VPRQUQYVXGFTA" width="494" height="146"/>
+[![GitHub Statistics](https://raw.githubusercontent.com/georgegach/github-stats-transparent/output/generated/overview.svg)](https://gach.ml)
+[![GitHub Top Languages](https://raw.githubusercontent.com/georgegach/github-stats-transparent/output/generated/languages.svg)](https://anbani.ge)
 
 ```
 Signed, 
