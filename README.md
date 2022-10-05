@@ -1,14 +1,14 @@
 ### Hello there 👋 
 I'm [@GeorgeGach](https://gach.ml) a **Machine Learning** and **Web Engineer** from Tbilisi, Georgia 🇬🇪🇪🇺
 ```
-🚩 Looking for Middle-level full-time remote or on-site position \
-as a Data Scientist, Machine Learning or MLOps Engineer
+🚩 Looking for Senior-level full-time remote or on-site position \
+as a Data Scientist or Machine Learning Engineer
 ```
 
 
-- 🌱 I’m currently learning more about MLOps and Responsible AI practices
+- 🌱 I’m currently learning more about MLOps on Big Data models
 - 🍻 I’m open to collaborate on [FloWiz](https://github.com/georgegach/flowiz) and every [@Anbani](https://github.com/anbani) project like [Anbani.Py](https://github.com/anbani/anbani.py) or [TextArt](https://github.com/anbani/textart)
-- 🔬 I’m currently specializing in building effective NLP pipelines end-to-end from data gathering and model training to cloud deployment with CI/CD, proper governance, monitoring and friendly Web UI
+- 🔬 I’m currently specializing in building effective recommender systems leveraging vast amounts of user data 
 - 🤔 I’m looking for tips and tricks about cost-effective cloud deployment of large-scale NLP models 
 - 🤝 Some of the projects I contributed to are: 
   - [Next.js](https://github.com/vercel/next.js/) - absolute jewel of the modern web
