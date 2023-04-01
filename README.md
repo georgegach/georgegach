@@ -1,8 +1,9 @@
 ### Hello there 👋 
 I'm [@GeorgeGach](https://gach.ml) a **Machine Learning** and **Web Engineer** from Tbilisi, Georgia 🇬🇪🇪🇺
 ```
-🚩 Looking for Senior-level full-time remote or on-site position \
-as a Data Scientist or Machine Learning Engineer
+🚩 Open to full-time remote or on-site position \
+as ML Software Architect focussing on Recommender Engines, \
+Natural Language Understanding and Geospatial analytics. 
 ```
 
 
