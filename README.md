@@ -2,7 +2,7 @@
 I'm [@GeorgeGach](https://georgegach.github.io) a **Machine Learning** and **Web Engineer** from Tbilisi, Georgia 🇬🇪🇪🇺
 ```
 🚩 Open to full-time remote or on-site position \
-as ML Solution Architect focussing on Recommender Engines, \
+as Data Solution Architect focussing on Recommender Engines, \
 Spatio-Temporal Analytics and Large Language Models. \ 
 ```
 
@@ -30,15 +30,15 @@ Spatio-Temporal Analytics and Large Language Models. \
 Signed, 
 
 +--[ED25519 256]--+
-|       ....  . . |
-|      = .=  . o  |
-|     = =o o  oo  |
-|      * ....o..B |
-|   . +  S=+o .= o|
-|    E . oo=o=.  o|
-|   . . ..+ *.   +|
-|    . . . . .. .o|
-|       .     .oo+|
+|           .+.   |
+|         o.oo=   |
+|        o =o* .  |
+|         + =.o . |
+|        S = ..o  |
+|       o B ..= +.|
+|      . = o =.+o=|
+|     . o E   ++*+|
+|      . ... ...*O|
 +----[SHA256]-----+
 
 Giorgi Gachechiladze
