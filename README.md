@@ -5,9 +5,6 @@ I'm [@Giorgi](https://gach.dev) a **Data Architect** and **Platform Engineer** f
 📫 You can reach me on [Facebook](https://fb.com/george.gachechiladze) or [LinkedIn](https://www.linkedin.com/in/georgegach/) whether it's business or just to chat. 
 
 
-[![GitHub Statistics](https://raw.githubusercontent.com/georgegach/github-stats-transparent/output/generated/overview.svg)](https://georgegach.github.io)
-[![GitHub Top Languages](https://raw.githubusercontent.com/georgegach/github-stats-transparent/output/generated/languages.svg)](https://anbani.ge)
-
 ```
 Signed, 
 
