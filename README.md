@@ -1,5 +1,5 @@
 ### Hello there 👋 
-I'm [@Giorgi](https://gach.dev) a **Data Architect** and **Platform Engineer** from Tbilisi, Georgia 🇬🇪🇪🇺
+I'm [@Giorgi](https://gach.dev) a **Data Architect** from Tbilisi, Georgia 🇬🇪🇪🇺
 
 🚩 Open to full-time and consulting opportunities as a **Data Architect**.   
 📫 You can reach me on [Facebook](https://fb.com/george.gachechiladze) or [LinkedIn](https://www.linkedin.com/in/georgegach/) whether it's business or just to chat. 
