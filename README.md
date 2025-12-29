@@ -1,7 +1,7 @@
 ### Hello there 👋 
-I'm [Giorgi](https://georgegach.github.io) a **Data Solutions Architect** from Tbilisi, Georgia 🇬🇪🇪🇺
+I'm [Giorgi](https://georgegach.github.io) a **Data Architect** from Tbilisi, Georgia 🇬🇪🇪🇺
 
-🚩 Open to full-time and consulting opportunities in **Data & AI Solutions Architecture**.   
+🚩 Open to full-time and consulting opportunities in **AI-enablement Data & ML Platform Architecture**.   
 📫 You can reach me on [Facebook](https://fb.com/george.gachechiladze) or [LinkedIn](https://www.linkedin.com/in/georgegach/) whether it's business or just to chat. 
 
 
