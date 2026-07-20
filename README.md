@@ -1,7 +1,7 @@
 ### Hello there 👋 
 I'm [Giorgi](https://georgegach.github.io) a **Data Architect** from Tbilisi, Georgia 🇬🇪🇪🇺   
 <!-- EXP_START -->
-![Experience](https://img.shields.io/badge/Experience-14%20years%206%20months%2029%20days-0A66C2?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-14%20years%207%20months%200%20days-0A66C2?style=for-the-badge)
 <!-- EXP_END -->
 
 🚩 Open to full-time and consulting opportunities in **AI-enablement Data & ML Platform Architecture**.   
