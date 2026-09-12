@@ -3,6 +3,9 @@ I'm [Giorgi](https://georgegach.github.io) a **Data Architect** from Tbilisi, Ge
 <!-- EXP_START -->
 ![Experience](https://img.shields.io/badge/Experience-14%20years%208%20months%2023%20days-0A66C2?style=for-the-badge)
 <!-- EXP_END -->
+<!-- TOKENS_START -->
+![Tokens](https://raw.githubusercontent.com/georgegach/georgegach/main/tokens/badge.svg)
+<!-- TOKENS_END -->
 
 🚩 Open to full-time and consulting opportunities in **AI-enablement Data & ML Platform Architecture**.   
 📫 You can reach me on [Facebook](https://fb.com/george.gachechiladze) or [LinkedIn](https://www.linkedin.com/in/georgegach/) whether it's business or just to chat. 

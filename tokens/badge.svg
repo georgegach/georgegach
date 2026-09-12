@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380.88" height="28" role="img" aria-label="TOKENS: 25.3B · ~$24.1K API-EQUIV">
+<title>TOKENS: 25.3B · ~$24.1K API-EQUIV — last 12 months: 25-10 0, 25-11 0, 25-12 0, 26-01 0, 26-02 0, 26-03 0, 26-04 0, 26-05 1.5B, 26-06 7.5B, 26-07 13.2B, 26-08 1.6B, 26-09 1.6B</title>
+<defs>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#bfd9f7"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".10"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<g shape-rendering="crispEdges">
+<rect width="72.62" height="28" fill="#555"/>
+<rect x="72.62" width="212.76" height="28" fill="#0a66c2"/>
+<rect x="285.38" width="95.5" height="28" fill="#08529e"/>
+<rect x="285.38" width="1" height="28" fill="#000" opacity=".18"/>
+</g>
+<rect width="380.88" height="28" fill="url(#sheen)"/>
+<g><rect x="295.38" y="20.80" width="4.0" height="1.20" rx="1.2" fill="url(#bar)" opacity="1.0"><title>2025-10: 0 tokens · $0 (exact)</title></rect><rect x="301.88" y="20.80" width="4.0" height="1.20" rx="1.2" fill="url(#bar)" opacity="1.0"><title>2025-11: 0 tokens · $0 (exact)</title></rect><rect x="308.38" y="20.80" width="4.0" height="1.20" rx="1.2" fill="url(#bar)" opacity="1.0"><title>2025-12: 0 tokens · $0 (exact)</title></rect><rect x="314.88" y="20.80" width="4.0" height="1.20" rx="1.2" fill="url(#bar)" opacity="1.0"><title>2026-01: 0 tokens · $0 (exact)</title></rect><rect x="321.38" y="20.80" width="4.0" height="1.20" rx="1.2" fill="url(#bar)" opacity="1.0"><title>2026-02: 0 tokens · $0 (exact)</title></rect><rect x="327.88" y="20.80" width="4.0" height="1.20" rx="1.2" fill="url(#bar)" opacity="1.0"><title>2026-03: 0 tokens · $0 (exact)</title></rect><rect x="334.38" y="20.80" width="4.0" height="1.20" rx="1.2" fill="url(#bar)" opacity="1.0"><title>2026-04: 0 tokens · $0 (exact)</title></rect><rect x="340.88" y="16.63" width="4.0" height="5.37" rx="1.2" fill="url(#bar)" opacity="0.42"><title>2026-05: 1.5B tokens · $1.2K (estimated)</title></rect><rect x="347.38" y="9.90" width="4.0" height="12.10" rx="1.2" fill="url(#bar)" opacity="0.42"><title>2026-06: 7.5B tokens · $7.2K (estimated)</title></rect><rect x="353.88" y="6.00" width="4.0" height="16.00" rx="1.2" fill="url(#bar)" opacity="0.42"><title>2026-07: 13.2B tokens · $12.8K (estimated)</title></rect><rect x="360.38" y="16.43" width="4.0" height="5.57" rx="1.2" fill="url(#bar)" opacity="1.0"><title>2026-08: 1.6B tokens · $1.4K (exact)</title></rect><rect x="366.88" y="16.50" width="4.0" height="5.50" rx="1.2" fill="#fff" opacity="1.0"><title>2026-09: 1.6B tokens · $1.5K (exact)</title></rect></g>
+<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+<text transform="scale(.1)" x="363.10" y="175" textLength="486.2">TOKENS</text>
+<text transform="scale(.1)" x="1790.00" y="175" textLength="1887.6" font-weight="bold">25.3B · ~$24.1K API-EQUIV</text>
+</g>
+</svg>

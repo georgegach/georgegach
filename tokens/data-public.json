@@ -1,0 +1,39 @@
+{
+ "generated": "2026-09-12T07:32:37Z",
+ "lifetime": {
+  "tokens": 25314436710,
+  "usd": 24104.71
+ },
+ "months": [
+  {
+   "month": "2026-05",
+   "tokens": 1479877594,
+   "usd": 1214.83,
+   "quality": "estimated"
+  },
+  {
+   "month": "2026-06",
+   "tokens": 7521792173,
+   "usd": 7198.79,
+   "quality": "estimated"
+  },
+  {
+   "month": "2026-07",
+   "tokens": 13161920299,
+   "usd": 12807.59,
+   "quality": "estimated"
+  },
+  {
+   "month": "2026-08",
+   "tokens": 1594064351,
+   "usd": 1369.41,
+   "quality": "exact"
+  },
+  {
+   "month": "2026-09",
+   "tokens": 1556782293,
+   "usd": 1514.08,
+   "quality": "exact"
+  }
+ ]
+}
