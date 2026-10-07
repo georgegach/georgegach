@@ -1,38 +1,50 @@
 {
- "generated": "2026-09-12T07:32:37Z",
+ "generated": "2026-10-07T19:45:09Z",
  "lifetime": {
-  "tokens": 25314436710,
-  "usd": 24104.71
+  "tokens": 47214311919,
+  "usd": 37336.06
  },
  "months": [
   {
+   "month": "2026-01",
+   "tokens": 109404,
+   "usd": 0.06,
+   "quality": "exact"
+  },
+  {
    "month": "2026-05",
-   "tokens": 1479877594,
-   "usd": 1214.83,
+   "tokens": 683414598,
+   "usd": 561.02,
    "quality": "estimated"
   },
   {
    "month": "2026-06",
-   "tokens": 7521792173,
-   "usd": 7198.79,
+   "tokens": 4625675858,
+   "usd": 4523.84,
    "quality": "estimated"
   },
   {
    "month": "2026-07",
-   "tokens": 13161920299,
-   "usd": 12807.59,
+   "tokens": 8339704993,
+   "usd": 7943.61,
    "quality": "estimated"
   },
   {
    "month": "2026-08",
-   "tokens": 1594064351,
-   "usd": 1369.41,
+   "tokens": 5950207471,
+   "usd": 5417.54,
    "quality": "exact"
   },
   {
    "month": "2026-09",
-   "tokens": 1556782293,
-   "usd": 1514.08,
+   "tokens": 19148652833,
+   "usd": 14531.47,
+   "quality": "exact"
+  },
+  {
+   "month": "2026-10",
+   "tokens": 8466546762,
+   "usd": 4358.52,
    "quality": "exact"
   }
  ]
