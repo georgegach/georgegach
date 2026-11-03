@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-01T06:21:08Z",
+ "generated": "2026-11-03T15:48:41Z",
  "lifetime": {
-  "tokens": 47214311919,
-  "usd": 37336.06
+  "tokens": 64523697777,
+  "usd": 42876.3
  },
  "months": [
   {
@@ -19,15 +19,15 @@
   },
   {
    "month": "2026-06",
-   "tokens": 4625675858,
-   "usd": 4523.84,
+   "tokens": 4625675857,
+   "usd": 4523.99,
    "quality": "estimated"
   },
   {
    "month": "2026-07",
-   "tokens": 8339704993,
-   "usd": 7943.61,
-   "quality": "estimated"
+   "tokens": 5189667630,
+   "usd": 4974.58,
+   "quality": "anchored"
   },
   {
    "month": "2026-08",
@@ -43,8 +43,14 @@
   },
   {
    "month": "2026-10",
-   "tokens": 8466546762,
-   "usd": 4358.52,
+   "tokens": 28302882183,
+   "usd": 12656.91,
+   "quality": "exact"
+  },
+  {
+   "month": "2026-11",
+   "tokens": 623087801,
+   "usd": 210.74,
    "quality": "exact"
   }
  ]
